@@ -4,7 +4,7 @@
     "name": "Enhanced QIS",
     "version": "1.0.1",
   
-    "description": "Enhancements for QIS grades portal. This currently only works for Hochschule Trier on page qis.hochschule-trier.de. Current Features: - Enhancement of the grades overview",
+    "description": "Enhancements for QIS grades portal. This currently only works for Leibniz Universität Hannover on page qis.verwaltung.uni-hannover.de. Current Features: - Enhancement of the grades overview",
   
     "icons": {
       "48": "icons/icon.svg",
@@ -13,7 +13,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://qis.hochschule-trier.de/*"],
+        "matches": ["*://qis.verwaltung.uni-hannover.de/*"],
         "js": ["index.js"]
       }
     ]
