@@ -1,6 +1,7 @@
 /**
  * Enhanced QIS
  * by Oshimani
+ * edited by IzzLenn
  * 
  * THIS RUNS ON EVERY NAVIGATION
  */
