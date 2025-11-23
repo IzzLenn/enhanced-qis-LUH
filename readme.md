@@ -1,9 +1,9 @@
-# Enhanced QIS for Hochschule Trier
-Enhanced QIS verbessert das QIS-System (für die Hochschule Trier)
+# Enhanced QIS for Leibniz Universität Hannover
+Enhanced QIS verbessert das QIS-System (Credits: github.com/Oshimani)
 
 # Download
 Download form Mozilla Addon Store
-[https://addons.mozilla.org/de/firefox/addon/enhanced-qis/](https://addons.mozilla.org/de/firefox/addon/enhanced-qis/)
+____Wir noch erstellt___
 # Features
 ## Notenübersicht
 Die Notenübersicht wird aufpoliert und erweitert.
