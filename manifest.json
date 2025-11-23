@@ -2,7 +2,7 @@
 
     "manifest_version": 3,
     "name": "Enhanced QIS",
-    "version": "0.2",
+    "version": "1.0",
   
     "description": "Enhancements for QIS grades portal. This currently only works for Leibniz Universität Hannover on page qis.verwaltung.uni-hannover.de. Current Features: - Enhancement of the grades overview",
   
