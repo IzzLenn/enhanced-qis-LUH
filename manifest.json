@@ -2,9 +2,9 @@
 
     "manifest_version": 3,
     "name": "Enhanced QIS",
-    "version": "1.0",
+    "version": "1.1",
   
-    "description": "Enhancements for QIS grades portal. This currently only works for Leibniz Universität Hannover on page qis.verwaltung.uni-hannover.de. Current Features: - Enhancement of the grades overview",
+    "description": "Enhancements for QIS grades portal. This currently only works for Leibniz Universität Hannover on page qis.verwaltung.uni-hannover.de. Improves the grades overview, calculates the weighted average grade and shows the sum of credits from passed modules.",
   
     "icons": {
       "48": "icons/icon.svg",
