@@ -3,7 +3,7 @@ Enhanced QIS verbessert das QIS-System (Credits: github.com/Oshimani)
 
 # Download
 Download form Mozilla Addon Store
-___Wir noch erstellt___
+___Wird noch erstellt___
 # Features
 ## Notenübersicht
 Die Notenübersicht wird aufpoliert und erweitert.
