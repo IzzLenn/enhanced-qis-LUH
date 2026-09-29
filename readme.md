@@ -5,6 +5,7 @@ Enhanced QIS verbessert das QIS-System (Credits: github.com/Oshimani)
 Die .zip aus dem aktuellsten Release herunterladen und den Ordner entpacken.
 
 für Chromium Browser: Erweiterungen -> Entwicklermodus aktivieren -> entpackte Erweiterung laden -> entpackten Ordner auswählen
+
 für Firefox: Erweiterungen (about:addons) ->  auf neben Firefox anpassen clicken ->  Add-on aus Datei installieren -> den entpackten Ordner auswählen.
 
 # Features
