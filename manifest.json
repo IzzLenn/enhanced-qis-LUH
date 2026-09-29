@@ -1,21 +1,36 @@
 {
+  "manifest_version": 3,
+  "name": "Enhanced QIS LUH",
+  "version": "1.1.1",
+  "description": "Enhancements for the QIS grades portal of Leibniz Universität Hannover.",
 
-    "manifest_version": 3,
-    "name": "Enhanced QIS",
-    "version": "1.1",
-  
-    "description": "Enhancements for QIS grades portal. This currently only works for Leibniz Universität Hannover on page qis.verwaltung.uni-hannover.de. Improves the grades overview, calculates the weighted average grade and shows the sum of credits from passed modules.",
-  
-    "icons": {
-      "48": "icons/icon.svg",
-      "96": "icons/icon.svg"
-    },
-  
-    "content_scripts": [
-      {
-        "matches": ["*://qis.verwaltung.uni-hannover.de/*"],
-        "js": ["index.js"]
+  "icons": {
+    "48": "icons/icon48.png",
+    "96": "icons/icon96.png",
+    "128": "icons/icon128.png"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "enhanced-qis-luh@local.addon",
+      "strict_min_version": "140.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
       }
-    ]
-  
-  }
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://qis.verwaltung.uni-hannover.de/*"
+      ],
+      "js": [
+        "index.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
