@@ -2,7 +2,7 @@
  * Enhanced QIS
  * by Oshimani
  * edited by IzzLenn
- * Version 1.1: Summe bestandener Leistungspunkte in der Tabellenüberschrift
+ * Version 1.1.1: Kompatibilität mit Chromium und Firefox
  *
  * Version für die aktuelle Notenspiegel-Seite der LUH
  * (angepasste Spaltenindizes und Status-Texte)
